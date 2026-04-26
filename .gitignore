@@ -1,0 +1,10 @@
+node_modules
+.next
+.vercel
+*.pem
+.env*
+npm-debug.log*
+.DS_Store
+__pycache__
+*.pyc
+apps/api/models
